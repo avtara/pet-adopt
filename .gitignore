@@ -1,7 +1,7 @@
 node_modules/
 .DS_Store
-./cache
+.cache/
 dist/
 coverage/
 .vscode/
-.env
+.env57d66d2
