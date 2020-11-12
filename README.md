@@ -1,5 +1,5 @@
-###Pet Adopt
-[Demo of Pet Adopt](https://petadopt.avtara.digital/)
+### Pet Adopt
+[Demo soon!](https://petadopt.avtara.digital/)
 Create using _heart_ from scratch
 
 ### Summary
